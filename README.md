@@ -1,6 +1,10 @@
 # QR-Code-Generator
 ##What you Expect ~ Video
-https://github.com/EnockNyamagwa/QR-Code-Generator/assets/98160096/574b291f-0998-457d-8566-4b7194f90b9c
+
+
+https://github.com/EnockNyamagwa/QR-Code-Generator/assets/98160096/e82423e4-d74c-4c33-8ab7-f1637e80e3bb
+
+
 
 ##Layout
 ![bandicam 2023-06-12 14-41-51-140](https://github.com/EnockNyamagwa/QR-Code-Generator/assets/98160096/9bab2883-2e60-41fc-973e-c85ab2b8ac10)
